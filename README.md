@@ -7,13 +7,11 @@ This is a simple keylogger application implemented in Python using Tkinter for t
 * Logs keystrokes in both text and JSON formats.
 ```
 ## How to Use
-## Clone the Repository:
-'git clone https://github.com/your_username/keylogger.git
+
 cd keylogger'
 ## Install Dependencies:
 pip install pynput
-## Run the Application:
-python keylogger.py
+
 ## GUI Usage:
 ```
 * Click on the "Select Path" button to choose the file path for saving the key logs.
