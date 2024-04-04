@@ -78,7 +78,7 @@ class Keylogger:
         self.selected_path_label = ttk.Label(label_frame, text='', wraplength=200)
         self.selected_path_label.grid(row=1, column=0, padx=5, pady=5, sticky="nsew")
 
-        img_path = "C:/Users/Surendar/Downloads/wallpaper/tyh.png"
+        img_path = "C:/Users/jjosh/Downloads/wallpaper/tyh.png"
         img = tk.PhotoImage(file=img_path)
         img_label = ttk.Label(main_frame, image=img)
         img_label.grid(row=0, column=1, padx=10, pady=10, sticky="nsew")
